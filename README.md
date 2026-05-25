@@ -17,7 +17,7 @@ The project detects products placed inside a shopping basket zone and automatica
 
 
 # Demo
-<img src="https://github.com/mina91gh/Smart-Cart/blob/main/Smart-Cart.mp4" width="500">
+<img src="https://github.com/mina91gh/Smart-Cart/blob/main/Smart-Cart.gif" width="500">
 
 
 
