@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['Cell-Phone', 'Glasses', 'Remote']
+
+roboflow:
+  workspace: minas-workspace-7ul6p
+  project: smart-cart-hbyec
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/minas-workspace-7ul6p/smart-cart-hbyec/dataset/2
